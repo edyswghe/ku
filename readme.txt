@@ -4,4 +4,3 @@ Creating a new branch is quick and simple and cheap.
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbbb
-
